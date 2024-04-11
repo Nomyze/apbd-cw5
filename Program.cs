@@ -1,6 +1,3 @@
-using Microsoft.AspNetCore.Mvc;
-
-using apbd4.Models;
 using apbd4.Database;
 
 var builder = WebApplication.CreateBuilder(args);
